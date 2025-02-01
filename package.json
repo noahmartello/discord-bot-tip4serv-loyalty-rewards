@@ -1,0 +1,19 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "firebase-admin": "^13.0.2",
+    "node-fetch": "^3.3.2",
+    "punycode": "^2.3.1"
+  }
+}
