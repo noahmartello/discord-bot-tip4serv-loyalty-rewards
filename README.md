@@ -1,6 +1,6 @@
 # Discord Points & Shop Bot
 
-A feature-rich Discord bot with points tracking, shop system, and fun games like Mines and Roulette!
+A Discord Bot that tracks Tip4Serv Purchases. Includes a loyalty points system, games, & a shop to spend points!
 
 ## Features
 
